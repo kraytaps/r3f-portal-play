@@ -7,7 +7,6 @@ import { Portal } from './Portal';
 import { Rocks } from './Rocks';
 import { FloatingRocks } from './FloatingRocks';
 import { Trees } from './Trees';
-import { Words } from './Words';
 import { Grass } from './Grass';
 import { Color, CylinderGeometry, Mesh, MeshBasicMaterial } from 'three';
 import { SceneParticles } from './SceneParticles';
